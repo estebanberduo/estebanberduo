@@ -1,7 +1,8 @@
 ## Hi there 👋
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/estebanberduo/estebanberduo/blob/main/Github%20Banner.jpg" width="800"/>
-
+</div>
+<div id="aboutme" align="left">
 Soy un profesional de la ciencia de los datos buscando innovar y experimentar con distintos tipos de información para agregar valor a tu organización demostrando la importancia del manejo de datos.
 
 La atención al detalle, la comunicación asertiva y la mejora continua son imprescindibles para resolver problemas y lograr las metas organizacionales. Por esta razón busco constantemente mejorar mis habilidades y sumarme a nuevas experiencias profesionales y de vida para encontrar  nuevas perspectivas.
@@ -11,7 +12,7 @@ Con mi experiencia en análisis de datos, creación de modelos y automatización
 Permíteme ayudarte a resolver tus desafíos de datos con máxima eficacia y eficiencia.
 
 E-mail: estebanberduo@gmail.com
-
+</div>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanberduo/)
 
 
@@ -28,7 +29,7 @@ E-mail: estebanberduo@gmail.com
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]()
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=estebanberduo&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 <!--
