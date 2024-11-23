@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/estebanberduo/estebanberduo/blob/main/Github%20Banner.jpg" width="800"/>
 </div>
@@ -11,9 +11,16 @@ Con mi experiencia en análisis de datos, creación de modelos y automatización
 
 Permíteme ayudarte a resolver tus desafíos de datos con máxima eficacia y eficiencia.
 
-E-mail: estebanberduo@gmail.com
+
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanberduo/)
+
+## Contacto
+E-mail: estebanberduo@gmail.com
+
+[![LindekIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanberduo/)
+
+
+
 
 
 ## 💻 Tecnologías
