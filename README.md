@@ -2,6 +2,16 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/estebanberduo/estebanberduo/blob/main/Github%20Banner.jpg" width="800"/>
 
+Soy un profesional de la ciencia de los datos buscando innovar y experimentar con distintos tipos de información para agregar valor a tu organización demostrando la importancia del manejo de datos.
+
+La atención al detalle, la comunicación asertiva y la mejora continua son imprescindibles para resolver problemas y lograr las metas organizacionales. Por esta razón busco constantemente mejorar mis habilidades y sumarme a nuevas experiencias profesionales y de vida para encontrar  nuevas perspectivas.
+
+Con mi experiencia en análisis de datos, creación de modelos y automatización de procesos podremos encontrar soluciones y dar sentido a los datos de tu organización para operar de manera más efectiva y eficiente.
+
+Permíteme ayudarte a resolver tus desafíos de datos con máxima eficacia y eficiencia.
+
+E-mail: estebanberduo@gmail.com
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanberduo/)
 
 
