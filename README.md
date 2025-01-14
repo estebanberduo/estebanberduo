@@ -1,6 +1,6 @@
 ##
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/estebanberduo/estebanberduo/blob/main/Github%20Banner.jpg" width="800"/>
+  <img decoding="async" src="https://github.com/estebanberduo/estebanberduo/blob/main/Github.jpg" width="800"/>
 </div>
 <div id="aboutme" align="left">
 Soy un profesional de la ciencia de los datos buscando innovar y experimentar con distintos tipos de información para agregar valor a tu organización demostrando la importancia del manejo de datos.
